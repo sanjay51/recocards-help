@@ -30,7 +30,7 @@ The 'Deliver / Customize' buttons are only shown on the creator and collaborator
 
 ## 5. Try the card troubleshooter
 
-Try it here - https://recocards.com/tools/card-troubleshooter 
+Try it here - https://recocards.com/self-service/card-troubleshooter 
 It may fix your issue. This is a new tool, so if it works for you, please do let us know at feedback@recocards.com.
 
 ## 6. Reach us
